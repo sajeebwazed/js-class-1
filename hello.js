@@ -1,0 +1,6 @@
+consol.log('Hello programer')
+consol.log('I love Bangladesh')
+consol.log('Bangladesh is a small country')
+consol.log('3'+3)
+consol.log(3+3)
+consol.log('My fv no:'+3)
